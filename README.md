@@ -22,17 +22,11 @@ This project is a gym exercise detector that utilizes your webcam to track and a
 
 
 Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-pip install -r requirements.txt
+  ```bash
+   streamlit run app.py
 
-Run the application:
-
-streamlit run app.py
-
-
-Usage
-Open the app in your browser.
-Navigate to the "Exercise Detector" page to start tracking your workout via webcam.
-Perform exercises in front of the webcam, and the system will automatically count your reps and give feedback if a movement is incomplete.
-Explore the "Calorie Calculator" page to estimate your burned calories.
+ 
 

@@ -14,21 +14,7 @@ This project is a gym exercise detector that utilizes your webcam to track and a
 - **Streamlit**: To build and host the web application.
 - **Python**: Core language for logic and calculations.
 
-## Setup and Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/gym-exercise-detector.git
 
-
-
-Install the required dependencies:
-
-
-      streamlit run app.py
-
-
-
-         pip install -r requirements.txt
 
    
 

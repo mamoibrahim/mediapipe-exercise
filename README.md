@@ -22,11 +22,15 @@ This project is a gym exercise detector that utilizes your webcam to track and a
 
 
 Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
 
-  ```bash
-   streamlit run app.py
+
+      streamlit run app.py
+
+
+
+         pip install -r requirements.txt
+
+   
 
  
 

@@ -14,9 +14,17 @@ This project is a gym exercise detector that utilizes your webcam to track and a
 - **Streamlit**: To build and host the web application.
 - **Python**: Core language for logic and calculations.
 
+![image](https://github.com/user-attachments/assets/4e1d02dc-40fc-4074-9a27-7815410a4eae)
+
+![image](https://github.com/user-attachments/assets/e9678b89-fa83-4b8a-8731-0859c2b87273)
 
 
-   
+![image](https://github.com/user-attachments/assets/a57f6c3a-3c13-42ea-b75c-21b96ac7675c)
+
+![image](https://github.com/user-attachments/assets/7a1335bd-a59e-4041-aa80-e243fc68f82d)
+
+   ![image](https://github.com/user-attachments/assets/9955335f-423a-4329-a0b6-a75c5885a441)
+
 
  
 

@@ -25,6 +25,6 @@ This project is a gym exercise detector that utilizes your webcam to track and a
 
    ![image](https://github.com/user-attachments/assets/9955335f-423a-4329-a0b6-a75c5885a441)
 
-
+## you can simply run the app by running the (rerun.py) file
  
 

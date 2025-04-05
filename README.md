@@ -1,13 +1,19 @@
-# Gym Exercise Detector using Mediapipe and Streamlit
+💪 Real-Time Exercise Tracker & Repetition Counter
+A real-time exercise tracking web application that counts repetitions and provides feedback on form using joint movement analysis.
 
-This project is a gym exercise detector that utilizes your webcam to track and analyze workout movements. It calculates the angles between body joints using mathematical formulas to count repetitions and provide feedback. If a movement is incomplete, it won't count the repetition. The project also includes a calorie calculator and an articles page.
+Built with: Python, MediaPipe, and Streamlit
 
-## Features
-- **Exercise Detection**: Detects gym exercises using Mediapipe by analyzing your body's movements via webcam.
-- **Rep Counting**: Uses angle measurements between joints to accurately count completed reps.
-- **Feedback Mechanism**: If an exercise is not performed correctly, it will notify the user and won't count the rep.
-- **Calorie Calculator**: Allows users to calculate calories burned based on their workout.
-- **Articles Page**: Provides useful articles related to fitness and health.
+Model: Utilized Google’s MediaPipe for real-time joint detection and movement tracking.
+
+Logic: Applied mathematical calculations to measure the angle between three specific joints. A repetition is counted only when the angle reaches a defined threshold, ensuring proper form.
+
+Feedback System: If a movement doesn't meet the required form (based on joint angles), the user receives feedback and the rep is not counted.
+
+Calorie Calculator: Integrated a calorie calculator based on activity and estimated effort.
+
+Web Interface: Built using Streamlit to allow users to interact with the model easily through a browser.
+
+This project combines computer vision and math to help users perform workouts more accurately and track their progress in real-time — all from their webcam!
 
 ## Technologies Used
 - **Mediapipe**: For real-time human pose estimation.
